@@ -1,4 +1,4 @@
-# Collection of Past-Projects
+# Collection of Past-Projects by Norman Dewantoro
 1. Optimal Investment with Forward Preference and uncertain parameter under the binomial market model.
 2. Heart Disease Presence Prediction
 3. Wine Quality Prediction
